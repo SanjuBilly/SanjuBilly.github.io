@@ -7,11 +7,7 @@ Storyline
 
 	The masterbender or the Ghost tries to save the Fort from being captured by the enemies.
 	The ghost enters into either of airbender , waterbender and landbender . This activates them .
-	Each one has a common power (firing bullets) and a special power .
-	Special Powers - 
-	..* Freezing enemies - Waterbender 
-	..* Earthquake - Landbender 
-	..* Blowing wind - Airbender
+	Each one has a common power (firing bullets) and a special power (Freezing enemies - Waterbender , Earthquake - Landbender  , Blowing wind - Airbender).
 	They help in saving the fort before it gets destroyed .
 
 Controls
