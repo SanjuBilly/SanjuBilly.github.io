@@ -13,11 +13,11 @@ Storyline
 Controls
 ======
 
-	W,A,S,D for movement of Players and Ghost .
-	Overlap the ghost with respective player and Press Space to activate them .
-	To retrieve the player Press Shift .
+	`W,A,S,D` for movement of Players and Ghost .
+	Overlap the ghost with respective player and Press `Space` to activate them .
+	To retrieve the ghost back Press `Shift`.
 	Use mouse or trackpad to shoot the enemies .
-	Press Z for using special powers .	
+	Press `Z` for using special powers .	
 
 	Life of players , their strength gets incremented with time . And their power gets recharged .
 
