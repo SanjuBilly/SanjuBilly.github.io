@@ -9,9 +9,9 @@ Storyline
 	The ghost enters into either of airbender , waterbender and landbender . This activates them .
 	Each one has a common power (firing bullets) and a special power .
 	Special Powers - 
-	..*Freezing enemies - Waterbender 
-	..*Earthquake - Landbender 
-	..*Blowing wind - Airbender
+	..* Freezing enemies - Waterbender 
+	..* Earthquake - Landbender 
+	..* Blowing wind - Airbender
 	They help in saving the fort before it gets destroyed .
 
 Controls
