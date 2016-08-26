@@ -1,6 +1,4 @@
-# SanjuBilly.github.io
-
-## The Game
+# The Game
 
 Storyline 
 ======
